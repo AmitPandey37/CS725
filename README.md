@@ -11,7 +11,7 @@ It includes:
 
 ## **Assignments Overview**
 
-### **[Assignment 1](Assignments/Assignment 1/Asignment_1.pdf)**
+### **[Assignment 1](Assignments/Assignment%201/Asignment_1.pdf)**
 
 Focuses on building fundamental machine learning skills using Python and NumPy, and implementing regression models:
 
@@ -30,7 +30,7 @@ Focuses on building fundamental machine learning skills using Python and NumPy, 
 
 ---
 
-### **[Assignment 2](Assignments/Assignment 2/Asignment_2.pdf)**
+### **[Assignment 2](Assignments/Assignment%202/Asignment_2.pdf)**
 
 Covers neural networks, explainability, optimizers, and convolution operations:
 
